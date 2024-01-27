@@ -197,7 +197,7 @@
             <div class="overlay">
                 <div class="overlay-panel overlay-right">
                     <h1>Xin Chào Bạn!</h1>
-                    <p>Để duy trì kết nối với chúng tôi vui lòng đăng nhập bằng thông tin cá nhân của bạn</p>
+                    <p>Nếu bạn chưa có tài khoản hãy bấm vào Đăng Ký bên dưới để đăng ký tài khoản của chúng tôi</p>
                     <button class="ghost" id="signIn"><a href="/register">Đăng Ký</button>
                 </div>
             </div>
